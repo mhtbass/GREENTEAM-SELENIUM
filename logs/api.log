@@ -878,3 +878,287 @@
 28-03-2020 12:15:04.794 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\example.spec
 28-03-2020 12:15:04.796 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\example.spec
 28-03-2020 12:30:17.892 [Gauge] [DEBUG] Unable to send analytics data, timed out
+28-03-2020 14:29:13.622 [Gauge] [INFO] Watching directory: C:\Users\ryto1\Desktop\example\specs
+28-03-2020 14:29:13.623 [Gauge] [DEBUG] Found 1 files
+28-03-2020 14:29:13.626 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+28-03-2020 14:29:13.627 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-03-2020 14:29:13.627 [Gauge] [DEBUG] Adding specs from C:\Users\ryto1\Desktop\example\specs\example.spec
+28-03-2020 14:29:13.627 [Gauge] [INFO] Initializing steps cache with 1 steps
+28-03-2020 14:29:13.627 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49546
+28-03-2020 14:29:14.101 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+28-03-2020 14:29:14.107 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\ryto1\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.3\\libs" > 
+28-03-2020 14:29:20.998 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye gidilir" > 
+28-03-2020 14:29:20.998 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > > 
+28-03-2020 14:29:21.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search text \"bilgisayar\"" > 
+28-03-2020 14:29:21.538 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > > 
+28-03-2020 14:29:21.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Search text <text>" > 
+28-03-2020 14:29:21.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Search text {}" parameterizedStepValue:"Search text <text>" parameters:"text" > > 
+28-03-2020 14:29:21.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Search" > 
+28-03-2020 14:29:21.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > > 
+28-03-2020 16:55:25.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"HEsa" > 
+28-03-2020 16:55:25.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"HEsa" parameterizedStepValue:"HEsa" > > 
+28-03-2020 16:55:26.125 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"He" > 
+28-03-2020 16:55:26.125 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"He" parameterizedStepValue:"He" > > 
+28-03-2020 16:55:26.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab" > 
+28-03-2020 16:55:26.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab" parameterizedStepValue:"Hesab" > > 
+28-03-2020 16:55:27.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab\304\261m\304\261" > 
+28-03-2020 16:55:27.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab\304\261m\304\261" parameterizedStepValue:"Hesab\304\261m\304\261" > > 
+28-03-2020 16:55:28.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab\304\261m\304\261n \303\274st\303\274ne ge" > 
+28-03-2020 16:55:28.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne ge" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne ge" > > 
+28-03-2020 16:55:28.458 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > 
+28-03-2020 16:55:28.458 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > > 
+28-03-2020 16:56:55.481 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:56:55.489 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:56:55.491 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:09.029 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:09.031 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:09.713 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:09.715 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:10.804 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 16:57:10.805 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > > 
+28-03-2020 16:57:10.808 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 16:57:10.809 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 16:57:11.381 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 16:57:11.381 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > > 
+28-03-2020 16:57:11.382 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 16:57:11.382 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 16:57:12.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"S" > 
+28-03-2020 16:57:12.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"S" parameterizedStepValue:"S" > > 
+28-03-2020 16:57:12.875 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 16:57:12.875 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > > 
+28-03-2020 16:57:12.875 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 16:57:12.875 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 16:57:13.870 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:13.872 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:15.838 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 16:57:15.838 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > > 
+28-03-2020 16:57:15.838 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 16:57:15.838 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 16:57:17.679 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:17.681 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:18.491 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:57:18.492 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:59:48.665 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 16:59:48.667 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:00:29.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Si" > 
+28-03-2020 17:00:29.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Si" parameterizedStepValue:"Si" > > 
+28-03-2020 17:00:29.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sitey" > 
+28-03-2020 17:00:29.801 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sitey" parameterizedStepValue:"Sitey" > > 
+28-03-2020 17:00:30.121 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye " > 
+28-03-2020 17:00:30.121 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye" parameterizedStepValue:"Siteye" > > 
+28-03-2020 17:00:30.457 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye G" > 
+28-03-2020 17:00:30.457 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye G" parameterizedStepValue:"Siteye G" > > 
+28-03-2020 17:00:31.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye Giri\305\237" > 
+28-03-2020 17:00:31.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye Giri\305\237" parameterizedStepValue:"Siteye Giri\305\237" > > 
+28-03-2020 17:00:31.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye Giri\305\237 Y" > 
+28-03-2020 17:00:31.377 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye Giri\305\237 Y" parameterizedStepValue:"Siteye Giri\305\237 Y" > > 
+28-03-2020 17:00:31.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye Giri\305\237 Yapt\304\261" > 
+28-03-2020 17:00:31.785 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye Giri\305\237 Yapt\304\261" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261" > > 
+28-03-2020 17:00:32.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Siteye Giri\305\237 Yapt\304\261k" > 
+28-03-2020 17:00:32.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > > 
+28-03-2020 17:00:35.462 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:00:35.462 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > > 
+28-03-2020 17:00:35.462 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:00:35.462 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:00:38.161 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:00:38.163 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:01:23.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Gir" > 
+28-03-2020 17:01:23.018 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Gir" parameterizedStepValue:"Gir" > > 
+28-03-2020 17:01:23.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 " > 
+28-03-2020 17:01:23.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237" parameterizedStepValue:"Giri\305\237" > > 
+28-03-2020 17:01:23.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap" > 
+28-03-2020 17:01:23.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > > 
+28-03-2020 17:01:24.534 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap\304\261" > 
+28-03-2020 17:01:24.534 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap\304\261" parameterizedStepValue:"Giri\305\237 yap\304\261" > > 
+28-03-2020 17:01:25.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yapa" > 
+28-03-2020 17:01:25.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yapa" parameterizedStepValue:"Giri\305\237 yapa" > > 
+28-03-2020 17:01:26.641 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 y" > 
+28-03-2020 17:01:26.641 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 y" parameterizedStepValue:"Giri\305\237 y" > > 
+28-03-2020 17:01:46.456 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:01:46.456 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > > 
+28-03-2020 17:01:46.457 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:01:46.457 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:01:49.432 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:01:49.434 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:02:30.297 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:02:30.298 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:02:33.230 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:02:33.232 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:04:47.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ente" > 
+28-03-2020 17:04:47.390 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ente" parameterizedStepValue:"Ente" > > 
+28-03-2020 17:04:47.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter " > 
+28-03-2020 17:04:47.759 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter" parameterizedStepValue:"Enter" > > 
+28-03-2020 17:04:48.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Ema" > 
+28-03-2020 17:04:48.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Ema" parameterizedStepValue:"Enter Ema" > > 
+28-03-2020 17:04:49.601 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter emai" > 
+28-03-2020 17:04:49.601 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter emai" parameterizedStepValue:"Enter emai" > > 
+28-03-2020 17:04:49.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <" > 
+28-03-2020 17:04:49.960 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:49.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <" > 
+28-03-2020 17:04:49.973 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:49.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <" > 
+28-03-2020 17:04:49.975 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:51.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <emai" > 
+28-03-2020 17:04:51.091 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:51.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <emai" > 
+28-03-2020 17:04:51.102 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:51.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <emai" > 
+28-03-2020 17:04:51.106 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:04:51.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter email <email>" > 
+28-03-2020 17:04:51.468 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter email {}" parameterizedStepValue:"Enter email <email>" parameters:"email" > > 
+28-03-2020 17:05:02.873 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"email <email>" > 
+28-03-2020 17:05:02.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"email {}" parameterizedStepValue:"email <email>" parameters:"email" > > 
+28-03-2020 17:05:05.093 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"mail <email>" > 
+28-03-2020 17:05:05.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"mail {}" parameterizedStepValue:"mail <email>" parameters:"email" > > 
+28-03-2020 17:05:05.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email>" > 
+28-03-2020 17:05:05.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {}" parameterizedStepValue:"Email <email>" parameters:"email" > > 
+28-03-2020 17:05:08.660 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email b<email>" > 
+28-03-2020 17:05:08.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email b{}" parameterizedStepValue:"Email b<email>" parameters:"email" > > 
+28-03-2020 17:05:09.420 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email<email>" > 
+28-03-2020 17:05:09.421 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email{}" parameterizedStepValue:"Email<email>" parameters:"email" > > 
+28-03-2020 17:05:12.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> " > 
+28-03-2020 17:05:12.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {}" parameterizedStepValue:"Email <email>" parameters:"email" > > 
+28-03-2020 17:05:12.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> bilg" > 
+28-03-2020 17:05:12.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilg" parameterizedStepValue:"Email <email> bilg" parameters:"email" > > 
+28-03-2020 17:05:13.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> bilgileri" > 
+28-03-2020 17:05:13.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgileri" parameterizedStepValue:"Email <email> bilgileri" parameters:"email" > > 
+28-03-2020 17:05:13.921 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> bilgilerini" > 
+28-03-2020 17:05:13.921 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini" parameterizedStepValue:"Email <email> bilgilerini" parameters:"email" > > 
+28-03-2020 17:05:14.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> bilgilerini gir" > 
+28-03-2020 17:05:14.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini gir" parameterizedStepValue:"Email <email> bilgilerini gir" parameters:"email" > > 
+28-03-2020 17:05:15.305 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email <email> bilgilerini giriyoruz" > 
+28-03-2020 17:05:15.305 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <email> bilgilerini giriyoruz" parameters:"email" > > 
+28-03-2020 17:05:20.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre  " > 
+28-03-2020 17:05:20.112 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre" parameterizedStepValue:"\305\236ifre" > > 
+28-03-2020 17:05:20.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre < " > 
+28-03-2020 17:05:20.618 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:20.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre < " > 
+28-03-2020 17:05:20.630 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:20.631 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre < " > 
+28-03-2020 17:05:20.631 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:21.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <pas " > 
+28-03-2020 17:05:21.343 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:21.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <passwo " > 
+28-03-2020 17:05:21.682 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:21.693 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <passwo " > 
+28-03-2020 17:05:21.693 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:21.694 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <passwo " > 
+28-03-2020 17:05:21.694 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:22.036 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password " > 
+28-03-2020 17:05:22.036 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:22.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password " > 
+28-03-2020 17:05:22.045 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:22.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password " > 
+28-03-2020 17:05:22.046 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+28-03-2020 17:05:22.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password>  " > 
+28-03-2020 17:05:22.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {}" parameterizedStepValue:"\305\236ifre <password>" parameters:"password" > > 
+28-03-2020 17:05:23.123 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giri " > 
+28-03-2020 17:05:23.123 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giri" parameterizedStepValue:"\305\236ifre <password> giri" parameters:"password" > > 
+28-03-2020 17:05:23.528 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giriyru " > 
+28-03-2020 17:05:23.528 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyru" parameterizedStepValue:"\305\236ifre <password> giriyru" parameters:"password" > > 
+28-03-2020 17:05:24.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giriyo " > 
+28-03-2020 17:05:24.203 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyo" parameterizedStepValue:"\305\236ifre <password> giriyo" parameters:"password" > > 
+28-03-2020 17:05:24.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giriyoru " > 
+28-03-2020 17:05:24.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoru" parameterizedStepValue:"\305\236ifre <password> giriyoru" parameters:"password" > > 
+28-03-2020 17:05:24.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giriyoruz " > 
+28-03-2020 17:05:24.957 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <password> giriyoruz" parameters:"password" > > 
+28-03-2020 17:06:10.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.069 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.075 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.116 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.116 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.146 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.146 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.165 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-03-2020 17:06:10.165 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-03-2020 17:06:10.243 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:06:10.243 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > allSteps:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > > 
+28-03-2020 17:06:10.244 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:06:10.244 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:06:11.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"email\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:11.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <email> bilgilerini giriyoruz" parameters:"email" > > 
+28-03-2020 17:06:12.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"den\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:12.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <den> bilgilerini giriyoruz" parameters:"den" > > 
+28-03-2020 17:06:13.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"deneme\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:13.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme> bilgilerini giriyoruz" parameters:"deneme" > > 
+28-03-2020 17:06:13.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"deneme3@\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:13.639 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@> bilgilerini giriyoruz" parameters:"deneme3@" > > 
+28-03-2020 17:06:14.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"deneme3@gmai\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:14.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@gmai> bilgilerini giriyoruz" parameters:"deneme3@gmai" > > 
+28-03-2020 17:06:14.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"deneme3@gmail.\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:14.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@gmail.> bilgilerini giriyoruz" parameters:"deneme3@gmail." > > 
+28-03-2020 17:06:14.863 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Email \"deneme3@gmail.com\" bilgilerini giriyoruz" > 
+28-03-2020 17:06:14.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@gmail.com> bilgilerini giriyoruz" parameters:"deneme3@gmail.com" > > 
+28-03-2020 17:06:19.956 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:06:19.956 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > allSteps:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > > 
+28-03-2020 17:06:19.957 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:06:19.957 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:06:20.847 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre \"password\" giriyoruz" > 
+28-03-2020 17:06:20.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <password> giriyoruz" parameters:"password" > > 
+28-03-2020 17:06:22.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre \"team\" giriyoruz" > 
+28-03-2020 17:06:22.696 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <team> giriyoruz" parameters:"team" > > 
+28-03-2020 17:06:23.125 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre \"teamgre\" giriyoruz" > 
+28-03-2020 17:06:23.125 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <teamgre> giriyoruz" parameters:"teamgre" > > 
+28-03-2020 17:06:23.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre \"teamgreen1\" giriyoruz" > 
+28-03-2020 17:06:23.499 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <teamgreen1> giriyoruz" parameters:"teamgreen1" > > 
+28-03-2020 17:06:23.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre \"teamgreen123\" giriyoruz" > 
+28-03-2020 17:06:23.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <teamgreen123> giriyoruz" parameters:"teamgreen123" > > 
+28-03-2020 17:06:24.557 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:06:24.560 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:06:42.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Log" > 
+28-03-2020 17:06:42.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Log" parameterizedStepValue:"Log" > > 
+28-03-2020 17:06:42.746 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login " > 
+28-03-2020 17:06:42.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login" parameterizedStepValue:"Login" > > 
+28-03-2020 17:06:46.286 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"L" > 
+28-03-2020 17:06:46.286 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"L" parameterizedStepValue:"L" > > 
+28-03-2020 17:06:46.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G" > 
+28-03-2020 17:06:46.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G" parameterizedStepValue:"G" > > 
+28-03-2020 17:06:48.417 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap " > 
+28-03-2020 17:06:48.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > > 
+28-03-2020 17:06:48.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap t" > 
+28-03-2020 17:06:48.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap t" parameterizedStepValue:"Giri\305\237 yap t" > > 
+28-03-2020 17:06:49.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap tu\305\237" > 
+28-03-2020 17:06:49.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap tu\305\237" parameterizedStepValue:"Giri\305\237 yap tu\305\237" > > 
+28-03-2020 17:06:49.775 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap tu\305\237n" > 
+28-03-2020 17:06:49.775 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap tu\305\237n" parameterizedStepValue:"Giri\305\237 yap tu\305\237n" > > 
+28-03-2020 17:06:50.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap tu\305\237una ba" > 
+28-03-2020 17:06:50.524 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap tu\305\237una ba" parameterizedStepValue:"Giri\305\237 yap tu\305\237una ba" > > 
+28-03-2020 17:06:50.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap tu\305\237una bas\304\261l" > 
+28-03-2020 17:06:50.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap tu\305\237una bas\304\261l" parameterizedStepValue:"Giri\305\237 yap tu\305\237una bas\304\261l" > > 
+28-03-2020 17:06:51.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap tu\305\237una bas\304\261l\304\261r" > 
+28-03-2020 17:06:51.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap tu\305\237una bas\304\261l\304\261r" parameterizedStepValue:"Giri\305\237 yap tu\305\237una bas\304\261l\304\261r" > > 
+28-03-2020 17:07:03.103 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:07:03.105 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:08:21.176 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:08:21.176 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > allSteps:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@gmail.com> bilgilerini giriyoruz" parameters:"deneme3@gmail.com" > allSteps:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <teamgreen123> giriyoruz" parameters:"teamgreen123" > allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > > 
+28-03-2020 17:08:21.177 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:08:21.177 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:08:21.472 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G," > 
+28-03-2020 17:08:21.472 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G," parameterizedStepValue:"G," > > 
+28-03-2020 17:08:22.040 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-03-2020 17:08:22.040 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Siteye gidilir" parameterizedStepValue:"Siteye gidilir" > allSteps:<stepValue:"Search text {}" parameterizedStepValue:"Search text <bilgisayar>" parameters:"bilgisayar" > allSteps:<stepValue:"Click Search" parameterizedStepValue:"Click Search" > allSteps:<stepValue:"Siteye Giri\305\237 Yapt\304\261k" parameterizedStepValue:"Siteye Giri\305\237 Yapt\304\261k" > allSteps:<stepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" parameterizedStepValue:"Hesab\304\261m\304\261n \303\274st\303\274ne gelir" > allSteps:<stepValue:"Giri\305\237 yap" parameterizedStepValue:"Giri\305\237 yap" > allSteps:<stepValue:"Email {} bilgilerini giriyoruz" parameterizedStepValue:"Email <deneme3@gmail.com> bilgilerini giriyoruz" parameters:"deneme3@gmail.com" > allSteps:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <teamgreen123> giriyoruz" parameters:"teamgreen123" > > 
+28-03-2020 17:08:22.040 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-03-2020 17:08:22.040 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+28-03-2020 17:08:24.858 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:08:24.860 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:09:40.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\305\236ifre <password> giriyoruz" > 
+28-03-2020 17:09:40.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\305\236ifre {} giriyoruz" parameterizedStepValue:"\305\236ifre <password> giriyoruz" parameters:"password" > > 
+28-03-2020 17:17:14.977 [Gauge] [DEBUG] Unable to send analytics data, timed out
+28-03-2020 17:17:26.230 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:17:26.232 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:18:48.533 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:18:48.535 [Gauge] [INFO] Spec file added / modified: C:\Users\ryto1\Desktop\example\specs\login.spec
+28-03-2020 17:21:06.484 [Gauge] [INFO] Spec file removed: C:\Users\ryto1\Desktop\example\specs\example.spec

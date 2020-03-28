@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="" />
+    <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/search_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +22,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Concept" />
+        <option value="Specification" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZFnBPOWReGvkIrDVue7f1d7w67" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,8 +49,9 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
@@ -51,7 +69,7 @@
       <recent name="C:\Users\ryto1\Desktop\example\src\test\java\com\testinium\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Gauge Execution.gittigidiyor.com Search">
+  <component name="RunManager" selected="Gauge Execution.Giriş Yap (4)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -74,9 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gittigidiyor.com Search" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Giriş Yap (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/login.spec:4" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -89,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trendyol.com Search (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Giriş Yap (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/login.spec:4" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -104,9 +122,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trendyol.com Search (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Giriş Yap (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/login.spec:4" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -119,9 +137,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trendyol.com Search (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Giriş Yap (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/login.spec:4" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -134,9 +152,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trendyol.com Search (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Giriş Yap" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/login.spec:4" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -151,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gauge Execution.gittigidiyor.com Search" />
-        <item itemvalue="Gauge Execution.trendyol.com Search (4)" />
-        <item itemvalue="Gauge Execution.trendyol.com Search (3)" />
-        <item itemvalue="Gauge Execution.trendyol.com Search (2)" />
-        <item itemvalue="Gauge Execution.trendyol.com Search (1)" />
+        <item itemvalue="Gauge Execution.Giriş Yap (4)" />
+        <item itemvalue="Gauge Execution.Giriş Yap (3)" />
+        <item itemvalue="Gauge Execution.Giriş Yap (2)" />
+        <item itemvalue="Gauge Execution.Giriş Yap (1)" />
+        <item itemvalue="Gauge Execution.Giriş Yap" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +189,19 @@
       <updated>1584398585589</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584443660076">
@@ -189,38 +220,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585380054213" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585387012277">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1585390066578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585387012277" />
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1585388227713">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585390066578" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585393219611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585388227713" />
-    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1585388227713">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585393219611" />
+    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1585405347206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585388227713" />
-    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1585388227713">
+    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585405347206" />
+    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1585405347206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585388227713" />
-    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1585388227713">
+    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585405347206" />
+    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1585405347206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585388227713" />
+    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585405347206" />
+    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1585405347206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585405347206" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1584464125449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584464125449" />
-    <state x="112" y="0" key="SettingsEditor" timestamp="1585379789771">
+    <state x="112" y="0" key="SettingsEditor" timestamp="1585395838598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="112" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585379789771" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585385944472">
+    <state x="112" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585395838598" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585394960722">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585385944472" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585394960722" />
     <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585380980497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

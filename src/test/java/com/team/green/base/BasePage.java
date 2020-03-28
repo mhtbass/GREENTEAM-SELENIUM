@@ -3,6 +3,7 @@ package com.team.green.base;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -10,9 +11,11 @@ public class BasePage {
 
     WebDriver driver = null;
     WebDriverWait wait = null;
+    Actions actions =null;
 
     public BasePage(WebDriver driver){
         this.driver=driver;
+        this.actions=new Actions(driver);
         this.wait= new WebDriverWait(driver,60);
     }
 
@@ -36,6 +39,10 @@ public class BasePage {
         return findElement(by).getText();
     }
 
-
+    public void hoverElement(By by){
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(by));
+        wait.until(ExpectedConditions.elementToBeClickable(by));
+        actions.moveToElement(findElement(by)).build().perform();
+    }
 
 }

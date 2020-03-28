@@ -5,13 +5,18 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/base/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/constants/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/page/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/page/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/test/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/test/LoginPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/js/search_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/SearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/SearchPageTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,6 +1,6 @@
 Created by ryto1 on 28.03.2020
 
-This is a concept file with following syntax for each concept.
+Giriş
 # gittidiyor.com açılır ve <email> , <password> ile giriş yapılır
 *Siteye Giriş Yaptık
 *Hesabımın üstüne gelir
@@ -9,6 +9,7 @@ This is a concept file with following syntax for each concept.
 *Şifre <password> giriyoruz
 *Giriş yap tuşuna basılır
 
+Search
 # arama alanına <text> yazılır ve arama iconuna tıklanır
 *Arayama <text> yazıldı
 *Arama icona tıklandı

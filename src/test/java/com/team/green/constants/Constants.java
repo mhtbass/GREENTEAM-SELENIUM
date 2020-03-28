@@ -15,7 +15,10 @@ public class Constants {
     public static final By INPUT = By.id("search_word");
     public static final By SEARCH = By.id("header-search-find-link");
 
-    public static final By PRODUCT_PATH = By.xpath("//p[@class='image-container'][4]");
-    public static final By ADDFAV = By.className("gg-icon.gg-icon-favorite-pdp");
+    public static final By PRODUCT_PATH = By.xpath("/html/body/div[5]/div[2]/div/div[2]/div[4]/div[2]/ul/li[4]/a/div/p");
+    public static final By ADDFAV = By.id("gg-icon-favorite-pdp");
+    public static final By MYFAV = By.xpath("//a[text()='Favorilerim']");
+    public static final By BUYNOW = By.className("buy-now-button");
+
 
 }

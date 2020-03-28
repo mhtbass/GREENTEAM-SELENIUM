@@ -18,4 +18,5 @@ public class SearchPage extends BasePage {
         click(SEARCH);
     }
 
+
 }

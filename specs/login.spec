@@ -1,11 +1,7 @@
 Specification Heading
 =====================
 
-Giriş Yap
+gittigidiyor giriş ,arama ve favori ekleme
 ----------------
-*Siteye Giriş Yaptık
-*Hesabımın üstüne gelir
-*Giriş yap
-*Email "deneme3@gmail.com" bilgilerini giriyoruz
-*Şifre "teamgreen123" giriyoruz
-*Giriş yap tuşuna basılır
+*gittidiyor.com açılır ve "deneme3@gmail.com" , "teamgreen123" ile giriş yapılır
+*arama alanına "bilgisayar" yazılır ve arama iconuna tıklanır

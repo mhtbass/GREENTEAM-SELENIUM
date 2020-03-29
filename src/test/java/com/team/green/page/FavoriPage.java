@@ -26,4 +26,8 @@ public class FavoriPage extends BasePage {
         click(BUYNOW);
     }
 
+    public void hoverElement(){
+        hoverElement(ACCOUNT_OVER);
+    }
+
 }

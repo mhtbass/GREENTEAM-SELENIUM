@@ -28,6 +28,7 @@ public class BaseTest {
         setWebDriver(new ChromeDriver(chromeOptions));
         getWebDriver().navigate().to(WEBLINK);
 
+
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
         webDriver.manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);

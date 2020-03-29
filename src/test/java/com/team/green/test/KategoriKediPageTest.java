@@ -2,8 +2,6 @@ package com.team.green.test;
 
 import com.team.green.base.BaseTest;
 import com.team.green.page.KategoriKediPage;
-import com.team.green.page.LoginPage;
-import com.team.green.page.PuanPage;
 import com.thoughtworks.gauge.BeforeStep;
 import com.thoughtworks.gauge.Step;
 
@@ -27,20 +25,18 @@ public class KategoriKediPageTest extends BaseTest {
         kategoriKediPage.clickCat();
     }
 
-    @Step("Kedi Güvenlik Ürünleri seçilir")
-    public void clickCatSecur() {
-
-        kategoriKediPage.clickCatSecur();
-    }
-
-
-    @Step("25-50 TL arası seçilir")
-    public void choosePrice() {
-        kategoriKediPage.click2550();
-    }
-
     @Step("İlk ürüne tıklanır")
     public void clickFirst() {
         kategoriKediPage.clickFirst();
+    }
+
+    @Step("Hemen AL tıklanır")
+    public void buyNow() {
+        kategoriKediPage.buyNowCatpage();
+    }
+
+    @Step("Vazgeç tıklanır")
+    public void giveup() {
+        kategoriKediPage.giveup();
     }
 }

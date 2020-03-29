@@ -34,6 +34,7 @@ public class BasePage {
 
     }
 
+
     public String getText(By by){
         wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(by));
         return findElement(by).getText();

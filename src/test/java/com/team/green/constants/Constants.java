@@ -31,4 +31,10 @@ public class Constants {
     public static final By BUYNOW_BUTTON = By.id("buy-now");
     public static final By NEWPRICE_TOTAL = By.className("new-price");
 
+    public static final By SUPERMARKET = By.xpath("//p[text()='Süpermarket']");
+    public static final By CATCATEGORY = By.xpath("//a[text()='Kedi']");
+    public static final By CATCATEGORY2 = By.xpath("//a[text()='Kedi Güvenlik Ürünleri']");
+    public static final By PRICE_2550 = By.id("priceRange25-50");
+    public static final By FIRST_PRODUCT = By.cssSelector(".catalog-seem-cell");
+
 }

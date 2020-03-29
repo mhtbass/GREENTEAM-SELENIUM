@@ -1,5 +1,6 @@
 Senaryolar
 =====================
+//Created by Muhammed BAŞ
 
 gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla
 ----------------
@@ -33,3 +34,15 @@ Kategori Kontrolü
 *İlk ürüne tıklanır
 *Hemen AL tıklanır
 *Vazgeç tıklanır
+ 
+ 
+Haftanın çok satanları
+----------------
+*gittidiyor.com açılır ve "deneme3@gmail.com" , "teamgreen123" ile giriş yapılır
+*Haftanın çok satanlarına tıklanır
+*Telefonlardan 3. tıklanır
+*Sepete eklenir
+*Sepete gidilir
+*Sayfadaki fiyatıyla sepet fiyatı karşılaştırılır
+*Sepetten sil
+

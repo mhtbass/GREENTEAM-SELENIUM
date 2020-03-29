@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 
 public class Constants {
 
+    //Created by Muhammed BAŞ
+
     public static String WEBLINK = "https://www.gittigidiyor.com/";
 
     public static final By ACCOUNT_OVER = By.className("profile-container");
@@ -39,4 +41,14 @@ public class Constants {
     public static final By BUYNOWCATE = By.id("buy-now");
     public static final By FIRST_PRODUCT = By.xpath("/html/body/div[4]/div[2]/div/div[2]/div[3]/div/ul/li[1]/a/div/p");
 
+    public static final By WEEKLY_MOST = By.xpath("//a[@title='Haftanın Çok Satanları - Online Alışveriş']");
+    public static final By PHONE3 = By.xpath("//div[@class='Col-sc-1nx8ums-0 fAKJVt'][3]");
+    public static final By RECOPHONE = By.id("add-to-basket");
+    public static final By PRICE_ONPAGE = By.id("sp-price-highPrice");
+    public static final By PRICE_ONBASKET = By.className("new-price");
+    public static final By BASKET = By.cssSelector(".gg-ui-btn-default.padding-none");
+    public static final By BASKETHOVER = By.className("robot-header-iconContainer-cart");
+    public static final By DELETE = By.cssSelector(".btn-delete.hidden-m");
+
+    //////
 }

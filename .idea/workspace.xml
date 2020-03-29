@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/base/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/base/BaseTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/constants/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/page/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/page/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/example/com/team/green/test/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example/com/team/green/test/LoginPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/specs/senaryolar.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/specs/senaryolar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specs/loginandsearch.cpt" beforeDir="false" afterPath="$PROJECT_DIR$/specs/loginandsearch.cpt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specs/senaryolar.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/senaryolar.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/base/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/KategoriKediPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/page/KategoriKediPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/page/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/KategoriKediPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/test/KategoriKediPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/team/green/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/team/green/test/LoginPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +69,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Gauge Execution.Kategori Kontrolü">
+  <component name="RunManager" selected="Gauge Execution.Haftanın çok satanları (2)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -103,9 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kategori Kontrolü" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Haftanın çok satanları (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:28" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:48" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -118,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puan Kontrolü" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Haftanın çok satanları (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:15" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:48" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -133,9 +122,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Haftanın çok satanları (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:48" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -148,9 +137,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Haftanın çok satanları (5)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:48" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -163,9 +152,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+    <configuration name="Haftanın çok satanları" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:4" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec:48" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -180,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gauge Execution.Kategori Kontrolü" />
-        <item itemvalue="Gauge Execution.Puan Kontrolü" />
-        <item itemvalue="Gauge Execution.gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (4)" />
-        <item itemvalue="Gauge Execution.gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (3)" />
-        <item itemvalue="Gauge Execution.gittigidiyor giriş ,arama ve favori ekleme ve satın al tıkla (2)" />
+        <item itemvalue="Gauge Execution.Haftanın çok satanları (2)" />
+        <item itemvalue="Gauge Execution.Haftanın çok satanları (1)" />
+        <item itemvalue="Gauge Execution.Haftanın çok satanları" />
+        <item itemvalue="Gauge Execution.Haftanın çok satanları (5)" />
+        <item itemvalue="Gauge Execution.Haftanın çok satanları (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +232,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585417134887" />
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom" timestamp="1585485434881">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1585495360213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585485434881" />
-    <state width="1323" height="212" key="GridCell.Tab.0.center" timestamp="1585485434880">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585495360213" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1585495360213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585485434880" />
-    <state width="1323" height="212" key="GridCell.Tab.0.left" timestamp="1585485434880">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585495360213" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1585495360213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585485434880" />
-    <state width="1323" height="212" key="GridCell.Tab.0.right" timestamp="1585485434881">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585495360213" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1585495360213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585485434881" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585495360213" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1585483929542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

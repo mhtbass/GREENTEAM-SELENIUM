@@ -22,6 +22,16 @@ public class LoginPage extends BasePage {
     public void enterEmail(String email){
         sendKeys(LOGIN_EMAIL,email);
     }
+    public void closePolicie(){
+        click(POLICIES);
+    }
+
+    public void closePop(){
+        click(CLOSEPOP);
+    }
+    public void closePolicies(){
+        click(POLICIES);
+    }
 
     public void enterPassword(String password){
         sendKeys(LOGIN_PASSWORD,password);

@@ -11,6 +11,8 @@ public class Constants {
     public static final By LOGIN_EMAIL = By.id("L-UserNameField");
     public static final By LOGIN_PASSWORD = By.id("L-PasswordField");
     public static final By LOGIN_ENTER = By.id("gg-login-enter");
+    public static final By POLICIES = By.className("policy-alert-close");
+    public static final By CLOSEPOP = By.className("wis-mfp-close-27556");
 
     public static final By INPUT = By.id("search_word");
     public static final By SEARCH = By.id("header-search-find-link");
@@ -30,5 +32,11 @@ public class Constants {
     public static final By PRODUCT_VALUE = By.id("sp-price-highPrice");
     public static final By BUYNOW_BUTTON = By.id("buy-now");
     public static final By NEWPRICE_TOTAL = By.className("new-price");
+
+    public static final By SUPERMARKET = By.xpath("//p[text()='Süpermarket']");
+    public static final By CATCATEGORY = By.xpath("//a[text()='Kedi']");
+    public static final By GIVEUP = By.id("giveup");
+    public static final By BUYNOWCATE = By.id("buy-now");
+    public static final By FIRST_PRODUCT = By.xpath("/html/body/div[4]/div[2]/div/div[2]/div[3]/div/ul/li[1]/a/div/p");
 
 }

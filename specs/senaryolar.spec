@@ -23,3 +23,13 @@ Puan Kontrolü
 *Adeti arttır
 *Hemen satın al tıklanıyor
 *Ürünün fiyatı kontrol edilir
+
+
+Kategori Kontrolü
+----------------
+*gittidiyor.com açılır ve "deneme3@gmail.com" , "teamgreen123" ile giriş yapılır
+*Süpermarket kategorisine tıklanır
+*Kedi secenegi seçilir
+*İlk ürüne tıklanır
+*Hemen AL tıklanır
+*Vazgeç tıklanır

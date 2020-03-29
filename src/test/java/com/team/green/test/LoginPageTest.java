@@ -4,6 +4,8 @@ import com.team.green.base.BaseTest;
 import com.team.green.page.LoginPage;
 import com.thoughtworks.gauge.Step;
 
+import java.util.concurrent.TimeUnit;
+
 
 public class LoginPageTest extends BaseTest {
 
@@ -12,6 +14,7 @@ public class LoginPageTest extends BaseTest {
     @Step({"Siteye Giriş Yaptık"})
     public void before() {
         loginPage = new LoginPage(getWebDriver());
+        loginPage.closePolicie();
     }
 
     @Step({"Hesabımın üstüne gelir"})
@@ -37,6 +40,12 @@ public class LoginPageTest extends BaseTest {
     @Step({"Giriş yap tuşuna basılır"})
     public void clickLoginEnter (){
         loginPage.clickLoginEnter();
+    }
+
+    @Step({"Pop kapatılır"})
+    public void closePop () throws InterruptedException {
+        loginPage.closePop();
+        Thread.sleep(1000);
     }
 
 }

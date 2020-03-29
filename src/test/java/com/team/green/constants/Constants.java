@@ -16,9 +16,19 @@ public class Constants {
     public static final By SEARCH = By.id("header-search-find-link");
 
     public static final By PRODUCT_PATH = By.xpath("/html/body/div[5]/div[2]/div/div[2]/div[4]/div[2]/ul/li[4]/a/div/p");
-    public static final By ADDFAV = By.id("gg-icon-favorite-pdp");
+    public static final By ADDFAV = By.id("spp-watch-product");
     public static final By MYFAV = By.xpath("//a[text()='Favorilerim']");
+    public static final By PROFILE = By.className("afterLoginURL");
     public static final By BUYNOW = By.className("buy-now-button");
 
+    public static final By ELECTRONIC = By.xpath("//p[text()='Elektronik']");
+    public static final By ELECTRONICCATEGORY = By.xpath("//a[text()='Dizüstü(Laptop) Notebook Bilgisayar']");
+    public static final By TOPPUAN = By.id("filter_crd");
+    public static final By PUAN = By.xpath("//div/div[2]/strong");
+    public static final By PRODUCT_PAT = By.xpath("/html/body/div[4]/div[2]/div/div[2]/div[4]/ul/li[1]/div/a");
+    public static final By INCREASE = By.id("buyitnow_adet");
+    public static final By PRODUCT_VALUE = By.id("sp-price-highPrice");
+    public static final By BUYNOW_BUTTON = By.id("buy-now");
+    public static final By NEWPRICE_TOTAL = By.className("new-price");
 
 }

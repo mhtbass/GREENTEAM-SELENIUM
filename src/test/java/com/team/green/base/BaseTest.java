@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import java.util.concurrent.TimeUnit;
+
 import static com.team.green.constants.Constants.*;
 
 public class BaseTest {
@@ -26,6 +28,10 @@ public class BaseTest {
         setWebDriver(new ChromeDriver(chromeOptions));
         getWebDriver().navigate().to(WEBLINK);
 
+        webDriver.manage().window().maximize();
+        webDriver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+        webDriver.manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);
+        webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
     public static WebDriver getWebDriver() {
         return webDriver;

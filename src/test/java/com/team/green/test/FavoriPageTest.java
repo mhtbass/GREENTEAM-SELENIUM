@@ -25,6 +25,11 @@ public class FavoriPageTest extends BaseTest {
         favoriPage.addfavClick();
     }
 
+    @Step({"Profilin üstüne gelir"})
+    public void hoverElement (){
+        favoriPage.hoverElement();
+    }
+
     @Step("Favorilere tıklanır")
     public void clickmyfav() {
         favoriPage.clickmyFav();

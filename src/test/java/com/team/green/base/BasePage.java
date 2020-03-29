@@ -11,7 +11,7 @@ public class BasePage {
 
     WebDriver driver = null;
     WebDriverWait wait = null;
-    Actions actions =null;
+    static Actions actions =null;
 
     public BasePage(WebDriver driver){
         this.driver=driver;

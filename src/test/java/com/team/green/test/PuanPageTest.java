@@ -9,7 +9,7 @@ import static com.team.green.base.BaseTest.getWebDriver;
 
 public class PuanPageTest {
     PuanPage puanPage;
-    int productValue;
+
 
     @BeforeStep
     public void before() {
@@ -45,7 +45,7 @@ public class PuanPageTest {
 
     @Step({"Adeti arttır"})
     public void increatePro (){
-        productValue=puanPage.getProductvalue();
+
         puanPage.increaseProduct();
     }
     @Step({"Hemen satın al tıklanıyor"})
@@ -53,10 +53,10 @@ public class PuanPageTest {
         puanPage.clickBuyNow();
     }
 
-    @Step({"Ürünün fiyatı kontrol edilir"})
+    @Step({"Ürünün fiyatı yazdırılır"})
     public void lastPrice (){
         int lastprice=puanPage.getNowTotal();
-        Assert.assertEquals(lastprice,productValue);
+         System.out.println("Product value = "+lastprice);
     }
 
 

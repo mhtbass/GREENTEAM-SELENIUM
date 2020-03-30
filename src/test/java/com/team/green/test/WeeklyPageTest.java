@@ -1,7 +1,6 @@
 package com.team.green.test;
 
 import com.team.green.base.BaseTest;
-import com.team.green.page.PuanPage;
 import com.team.green.page.WeeklyPage;
 import com.thoughtworks.gauge.BeforeStep;
 import com.thoughtworks.gauge.Step;
@@ -48,7 +47,7 @@ public class WeeklyPageTest extends BaseTest {
 
     @Step("Sepetten sil")
     public void implementation2() {
-
         weeklyPage.clickDelete();
     }
+
 }

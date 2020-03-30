@@ -1,0 +1,37 @@
+//Created by Muhammed BAŞ
+
+Giriş
+# gittidiyor.com açılır ve <email> , <password> ile giriş yapılır
+*Siteye Giriş Yaptık
+*Hesabımın üstüne gelir
+*Giriş yap
+*Email <email> bilgilerini giriyoruz
+*Şifre <password> giriyoruz
+*Giriş yap tuşuna basılır
+*Pop kapatılır
+
+Search
+# arama alanına <text> yazılır ve arama iconuna tıklanır
+*Arayama <text> yazıldı
+*Arama icona tıklandı
+
+
+//Created by Can Akkaya
+
+# gittidiyor.com açılır ve <name> , <surname> , <mail> , <regpassword> , <gsm> ile üye olunur
+*Siteye Gir
+*Hesaba gel
+*Üye ol
+*Name <name> bilgilerini giriyoruz
+*Surname <surname> bilgilerini giriyoruz
+*Mail <mail> bilgilerini giriyoruz
+*Password <regpassword> bilgilerini giriyoruz
+*GSM <gsm> bilgilerini giriyoruz
+*Checkbox seçilir
+*Üye ol'a basılır
+
+# ürün seçilir, katalogdaki ücret alınır, sepete eklenir, sepete gidilir, sepetteki ücret alınır, katalogdaki ücret karşılaştırılır.
+*Ürüne Tıkla
+*Sepete eklenir
+*Sepete gidilir
+*Sayfadaki fiyatıyla sepet fiyatı karşılaştırılır

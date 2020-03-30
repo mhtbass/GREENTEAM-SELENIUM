@@ -50,7 +50,7 @@ public class PuanPage extends BasePage {
         String productValue2= getText(NEWPRICE_TOTAL);
         productValue2=productValue2.replaceAll("[^\\d]", "");
         int value2 = Integer.parseInt(productValue2);
-        System.out.println("**************** "+value2);
+
         return value2;
     }
 }

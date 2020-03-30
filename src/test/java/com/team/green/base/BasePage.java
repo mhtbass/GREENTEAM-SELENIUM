@@ -46,4 +46,10 @@ public class BasePage {
         actions.moveToElement(findElement(by)).build().perform();
     }
 
+    public void mouseOver(By by) {
+        wait.until(ExpectedConditions.elementToBeClickable(by));
+        WebElement menuOption = driver.findElement(by);
+        actions.moveToElement(findElement(by)).build().perform();
+    }
+
 }
